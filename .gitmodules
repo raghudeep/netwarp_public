@@ -1,0 +1,6 @@
+[submodule "external/cityscapesScripts"]
+	path = external/cityscapesScripts
+	url = https://github.com/mcordts/cityscapesScripts.git
+[submodule "external/OF_DIS"]
+	path = external/OF_DIS
+	url = https://github.com/tikroeger/OF_DIS.git
